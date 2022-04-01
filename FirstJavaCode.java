@@ -25,7 +25,8 @@ class FirstJavaCode
          }
          void newMethod()
          {
-                  System.out.println("Hello this is a new small change from akhil");
+        
+                  System.out.println("Welcome!");
          }
        
 }
