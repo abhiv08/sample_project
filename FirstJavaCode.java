@@ -16,7 +16,7 @@ class FirstJavaCode
   System.out.println("Second Code Hello!!");
 }
               void lokesh(){
-              System.out.println("Congrats to every one. Who visited the code");
+              System.out.println("Congrats to every one, who visited the code");
               }
           
          
