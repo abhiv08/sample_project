@@ -9,12 +9,15 @@ class FirstJavaCode
                  fjc.show();
            fjc.otherMethod(); 
                  fjc.newMethod();
+                  fjc.lokesh();
           }
          
          public void show(){
   System.out.println("Second Code Hello!!");
 }
-              
+              void lokesh(){
+              System.out.println("Congrats to every one. Who visited the code");
+              }
           
          
          void otherMethod()
